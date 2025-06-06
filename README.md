@@ -1,1 +1,1 @@
-# password_managing_website
+This is a simple password managing website built using HTML, CSS, and JavaScript. The application allows users to securely store, view, and manage their passwords directly in the browser. It features a clean and responsive user interface where users can add new login credentials, view existing ones, copy passwords to the clipboard, and delete saved entries.
